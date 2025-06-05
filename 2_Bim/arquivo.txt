@@ -1,7 +1,0 @@
-''
-Nome:Blue - Sobrenome: Pen
-Nome:Jailson  - Sobrenome: Mendes
-Nome: Yuri- Sobrenome: Alberto
-Endereço: Corinthians
-Nome: Memphis- Sobrenome: Depay
-Endereço: Corinthians
